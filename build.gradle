@@ -1,0 +1,16 @@
+dependencies {
+    // ML Kit Text Recognition
+    implementation 'com.google.mlkit:text-recognition:16.0.0'
+    
+    // CameraX
+    implementation 'androidx.camera:camera-core:1.1.0'
+    implementation 'androidx.camera:camera-camera2:1.1.0'
+    implementation 'androidx.camera:camera-lifecycle:1.1.0'
+    implementation 'androidx.camera:camera-view:1.1.0'
+
+    // Networking (e.g. OkHttp or Retrofit)
+    implementation 'com.squareup.okhttp3:okhttp:4.10.0'
+
+    // Kotlin Extensions
+    implementation "androidx.core:core-ktx:1.12.0"
+}
